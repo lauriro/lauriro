@@ -1,1 +1,1 @@
-Crafting an exceptional developer experience
+Crafting exceptional developer experience
